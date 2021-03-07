@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "iconv": "^3.0.0"
+  }
+}

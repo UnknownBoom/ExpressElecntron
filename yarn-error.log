@@ -1,0 +1,36 @@
+Arguments: 
+  F:\ProgrammingApps\nodejs\node.exe C:\Users\Unknown\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add bodu-parser
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\dependenses\python\Scripts\;E:\dependenses\python\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\dotnet;F:\ProgrammingApps\DB\Mysql\mysql-8\bin;F:\ProgrammingApps\nodejs\;C:\Program Files\Git\cmd;E:\dependenses\maven\apache-maven-3.6.3\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Users\Unknown\AppData\Local\Microsoft\WindowsApps;F:\ProgrammingApps\Microsoft VS Code\bin;F:\ProgrammingApps\IntelliJ IDEA 2020.1\bin;;C:\Users\Unknown\.dotnet\tools;C:\Users\Unknown\AppData\Roaming\npm;F:\ProgrammingApps\webstorm\WebStorm 2020.1\bin;;C:\Users\Unknown\AppData\Local\GitHubDesktop\bin;F:\ProgrammingApps\PyCharm 2020.2.3\bin;;C:\Users\Unknown\AppData\Local\Pandoc\;C:\Program Files\Azure Data Studio\bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/bodu-parser: Not found
+      at Request.params.callback [as _callback] (C:\Users\Unknown\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66988:18)
+      at Request.self.callback (C:\Users\Unknown\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140662:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (C:\Users\Unknown\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141634:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (C:\Users\Unknown\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141556:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1327:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
